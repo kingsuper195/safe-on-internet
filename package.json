@@ -4,5 +4,8 @@
   "description": "Stay Safe On The Internet",
   "main": "index.js",
   "author": "Peter Durdin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
