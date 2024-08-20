@@ -1,0 +1,8 @@
+{
+  "name": "safe-on-internet",
+  "version": "1.0.0",
+  "description": "Stay Safe On The Internet",
+  "main": "index.js",
+  "author": "Peter Durdin",
+  "license": "MIT"
+}
