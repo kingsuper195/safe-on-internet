@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Stay Safe On The Internet",
   "main": "index.js",
+  "scripts": {
+    "build": "sass ./src/scss/styles.scss ./src/cs/styles.css"
+  },
   "author": "Peter Durdin",
   "license": "MIT",
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3"
   }
 }
