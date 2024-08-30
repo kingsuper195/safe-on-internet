@@ -1,6 +1,9 @@
 body {
   overflow: hidden; /* Hide scrollbars */
 }
+a:hover {
+  cursor: default;
+}
 .word {
   position: absolute;
   transform: translate(1%, 0%);
